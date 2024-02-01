@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654709961899",
+    "firebase_url": "https://scoreboard-30678-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "scoreboard-30678",
+    "storage_bucket": "scoreboard-30678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654709961899:android:6fd63076026802c15373ee",
+        "android_client_info": {
+          "package_name": "com.example.scoreboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654709961899-v72qlkcj84vknn40b0psqnuk959rsubj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2TR7SLmEQ4p2YLstQZZRll1CfBeDXuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654709961899-v72qlkcj84vknn40b0psqnuk959rsubj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
